@@ -8,7 +8,7 @@ require (
 	github.com/coreos/ignition v0.35.0 // indirect
 	github.com/coreos/prometheus-operator v0.38.0
 	github.com/go-logr/logr v0.1.0
-	github.com/go-openapi/runtime v0.19.4
+	github.com/go-openapi/runtime v0.19.27
 	github.com/go-openapi/strfmt v0.19.3
 	github.com/go-resty/resty/v2 v2.3.0
 	github.com/golang/mock v1.4.4
