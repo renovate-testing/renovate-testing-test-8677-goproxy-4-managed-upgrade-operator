@@ -30,7 +30,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.17.0
 	github.com/prometheus/alertmanager v0.20.0
 	github.com/prometheus/client_golang v1.5.1
-	github.com/prometheus/common v0.9.1
+	github.com/prometheus/common v0.20.0
 	github.com/spf13/pflag v1.0.5
 	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50 // indirect
 	golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f // indirect
