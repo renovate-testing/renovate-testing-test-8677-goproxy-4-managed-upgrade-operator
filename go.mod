@@ -29,7 +29,7 @@ require (
 	github.com/operator-framework/api v0.3.6
 	github.com/operator-framework/operator-sdk v0.17.0
 	github.com/prometheus/alertmanager v0.20.0
-	github.com/prometheus/client_golang v1.5.1
+	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/common v0.9.1
 	github.com/spf13/pflag v1.0.5
 	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50 // indirect
