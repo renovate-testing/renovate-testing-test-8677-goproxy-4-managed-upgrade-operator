@@ -25,7 +25,7 @@ require (
 	github.com/openshift/cluster-version-operator v3.11.1-0.20190629164025-08cac1c02538+incompatible
 	github.com/openshift/machine-api-operator v0.2.1-0.20200226185612-9b0170a1ba07
 	github.com/openshift/machine-config-operator v4.2.0-alpha.0.0.20190917115525-033375cbe820+incompatible
-	github.com/openshift/operator-custom-metrics v0.4.1
+	github.com/openshift/operator-custom-metrics v0.4.2
 	github.com/operator-framework/api v0.3.6
 	github.com/operator-framework/operator-sdk v0.17.0
 	github.com/prometheus/alertmanager v0.20.0
