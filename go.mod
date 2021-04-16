@@ -27,7 +27,7 @@ require (
 	github.com/openshift/machine-config-operator v4.2.0-alpha.0.0.20190917115525-033375cbe820+incompatible
 	github.com/openshift/operator-custom-metrics v0.4.1
 	github.com/operator-framework/api v0.3.6
-	github.com/operator-framework/operator-sdk v0.17.0
+	github.com/operator-framework/operator-sdk v1.6.1
 	github.com/prometheus/alertmanager v0.20.0
 	github.com/prometheus/client_golang v1.5.1
 	github.com/prometheus/common v0.9.1
