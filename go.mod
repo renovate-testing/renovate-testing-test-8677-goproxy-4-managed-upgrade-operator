@@ -6,7 +6,7 @@ require (
 	github.com/ajeddeloh/go-json v0.0.0-20200220154158-5ae607161559 // indirect
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/coreos/ignition v0.35.0 // indirect
-	github.com/coreos/prometheus-operator v0.38.0
+	github.com/coreos/prometheus-operator v0.52.0
 	github.com/go-logr/logr v0.1.0
 	github.com/go-openapi/runtime v0.19.4
 	github.com/go-openapi/strfmt v0.19.3
